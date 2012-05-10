@@ -1,1 +1,0 @@
-SmartWatch SampleのAPIライブラリ
